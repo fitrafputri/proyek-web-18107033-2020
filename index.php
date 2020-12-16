@@ -40,6 +40,7 @@
                 <div class="navbar-nav ml-auto">
                     <a class="nav-link" href="index.php?halaman=home"> <i class="fas fa-home"></i> Home |</a>
                     <a class="nav-link" href="index.php?halaman=datamhs"> <i class="fas fa-user"></i> Mahasiswa</a>
+                    <a class="nav-link" href="index.php?halaman=dosen"> <i class="fas fa-user"></i> Dosen</a>
                 </div>
             </div>
         </div>
